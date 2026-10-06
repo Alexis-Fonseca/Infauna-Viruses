@@ -1,5 +1,6 @@
-# Infauna-Viruses
-Core code for analyzing metagenomic and metatranscriptomic data from infauna incubation experiments designed to determine the effects on viral communities in coastal sediments.
+# Effect of meiofauna on the viral community of coastal sediments
+
+Core analysis of metagenomic and metatranscriptomic data from infauna incubation experiments designed to determine the effects on viral communities in coastal sediments.
 
 **The following folders contain code and results for the main findings:**
 
