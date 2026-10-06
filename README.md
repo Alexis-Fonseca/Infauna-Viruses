@@ -2,7 +2,7 @@
 
 Core analysis of metagenomic and metatranscriptomic data from infauna incubation experiments designed to determine the effects on viral communities in coastal sediments.
 
-**The following folders contain code and results for the main findings:**
+**The following folders contain data analysis and results for the main findings:**
 
 - 01_Results_Fig_1A-C-E_DNA_abundance_diversity_PCoA
 - 02_Results_Fig_1B-D-F_RNA_abundance_diversity_PCoA
