@@ -1,0 +1,287 @@
+2026-10-04 17:33:24 INFO::Writing function arguments to log file
+2026-10-04 17:33:24 DEBUG::Function arguments
+2026-10-04 17:33:24 DEBUG::Output folder: Maaslin2_DNA_LM_q01
+2026-10-04 17:33:24 DEBUG::Min Abundance: 0.000000
+2026-10-04 17:33:24 DEBUG::Min Prevalence: 0.010000
+2026-10-04 17:33:24 DEBUG::Normalization: TSS
+2026-10-04 17:33:24 DEBUG::Transform: LOG
+2026-10-04 17:33:24 DEBUG::Analysis method: LM
+2026-10-04 17:33:24 DEBUG::Max significance: 0.100000
+2026-10-04 17:33:24 DEBUG::Random effects:
+2026-10-04 17:33:24 DEBUG::Fixed effects: Condition
+2026-10-04 17:33:24 DEBUG::Correction method: BH
+2026-10-04 17:33:24 DEBUG::Standardize: FALSE
+2026-10-04 17:33:24 DEBUG::Cores: 1
+2026-10-04 17:33:24 INFO::Verifying options selected are valid
+2026-10-04 17:33:24 INFO::Determining format of input files
+2026-10-04 17:33:24 INFO::Input format is data samples as rows and metadata samples as rows
+2026-10-04 17:33:24 DEBUG::A total of 26 samples were found in both the data and metadata
+2026-10-04 17:33:24 DEBUG::Reordering data/metadata to use same sample ordering
+2026-10-04 17:33:24 INFO::Formula for fixed effects: expr ~  Condition
+2026-10-04 17:33:24 INFO::Filter data based on min abundance and min prevalence
+2026-10-04 17:33:24 INFO::Total samples in data: 26
+2026-10-04 17:33:24 INFO::Min samples required with min abundance for a feature not to be filtered: 0.260000
+2026-10-04 17:33:24 INFO::Total filtered features: 0
+2026-10-04 17:33:24 INFO::Filtered feature names from abundance and prevalence filtering:
+2026-10-04 17:33:24 INFO::Total filtered features with variance filtering: 0
+2026-10-04 17:33:24 INFO::Filtered feature names from variance filtering:
+2026-10-04 17:33:24 INFO::Running selected normalization method: TSS
+2026-10-04 17:33:26 INFO::Bypass z-score application to metadata
+2026-10-04 17:33:26 INFO::Running selected transform method: LOG
+2026-10-04 17:33:26 INFO::Running selected analysis method: LM
+2026-10-04 17:33:26 INFO::Fitting model to feature number 1, DNA_Adenoviridae_like_336
+2026-10-04 17:33:26 INFO::Fitting model to feature number 2, DNA_Family_unknown_240
+2026-10-04 17:33:26 INFO::Fitting model to feature number 3, DNA_Peduoviridae_548
+2026-10-04 17:33:26 INFO::Fitting model to feature number 4, DNA_Family_unknown_9930
+2026-10-04 17:33:26 INFO::Fitting model to feature number 5, DNA_Peduoviridae_6682
+2026-10-04 17:33:26 INFO::Fitting model to feature number 6, DNA_Peduoviridae_3525
+2026-10-04 17:33:26 INFO::Fitting model to feature number 7, DNA_Peduoviridae_2089
+2026-10-04 17:33:26 INFO::Fitting model to feature number 8, DNA_Peduoviridae_259
+2026-10-04 17:33:26 INFO::Fitting model to feature number 9, DNA_Peduoviridae_2289
+2026-10-04 17:33:26 INFO::Fitting model to feature number 10, DNA_Family_unknown_1938
+2026-10-04 17:33:26 INFO::Fitting model to feature number 11, DNA_Peduoviridae_1480
+2026-10-04 17:33:26 INFO::Fitting model to feature number 12, DNA_Family_unknown_12234
+2026-10-04 17:33:26 INFO::Fitting model to feature number 13, DNA_Peduoviridae_2031
+2026-10-04 17:33:26 INFO::Fitting model to feature number 14, DNA_Peduoviridae_6560
+2026-10-04 17:33:26 INFO::Fitting model to feature number 15, DNA_Family_unknown_4095
+2026-10-04 17:33:26 INFO::Fitting model to feature number 16, DNA_Peduoviridae_974
+2026-10-04 17:33:26 INFO::Fitting model to feature number 17, DNA_Gracegardnervirinae_like_9320
+2026-10-04 17:33:26 INFO::Fitting model to feature number 18, DNA_Peduoviridae_10920
+2026-10-04 17:33:26 INFO::Fitting model to feature number 19, DNA_Peduoviridae_1239
+2026-10-04 17:33:26 INFO::Fitting model to feature number 20, DNA_Peduoviridae_656
+2026-10-04 17:33:26 INFO::Fitting model to feature number 21, DNA_Zobellviridae_5911
+2026-10-04 17:33:26 INFO::Fitting model to feature number 22, DNA_Inoviridae_like_1799
+2026-10-04 17:33:26 INFO::Fitting model to feature number 23, DNA_Peduoviridae_2115
+2026-10-04 17:33:26 INFO::Fitting model to feature number 24, DNA_Peduoviridae_1436
+2026-10-04 17:33:26 INFO::Fitting model to feature number 25, DNA_Family_unknown_1595
+2026-10-04 17:33:26 INFO::Fitting model to feature number 26, DNA_Peduoviridae_1494
+2026-10-04 17:33:26 INFO::Fitting model to feature number 27, DNA_Inoviridae_like_926
+2026-10-04 17:33:26 INFO::Fitting model to feature number 28, DNA_Peduoviridae_2941
+2026-10-04 17:33:26 INFO::Fitting model to feature number 29, DNA_Peduoviridae_1431
+2026-10-04 17:33:26 INFO::Fitting model to feature number 30, DNA_Peduoviridae_1222
+2026-10-04 17:33:26 INFO::Fitting model to feature number 31, DNA_Family_unknown_10326
+2026-10-04 17:33:26 INFO::Fitting model to feature number 32, DNA_Peduoviridae_4097
+2026-10-04 17:33:26 INFO::Fitting model to feature number 33, DNA_Peduoviridae_3109
+2026-10-04 17:33:26 INFO::Fitting model to feature number 34, DNA_Peduoviridae_2831
+2026-10-04 17:33:26 INFO::Fitting model to feature number 35, DNA_Peduoviridae_4021
+2026-10-04 17:33:26 INFO::Fitting model to feature number 36, DNA_Peduoviridae_540
+2026-10-04 17:33:26 INFO::Fitting model to feature number 37, DNA_Peduoviridae_882
+2026-10-04 17:33:26 INFO::Fitting model to feature number 38, DNA_Peduoviridae_1709
+2026-10-04 17:33:26 INFO::Fitting model to feature number 39, DNA_Schitoviridae_4748
+2026-10-04 17:33:26 INFO::Fitting model to feature number 40, DNA_Peduoviridae_2469
+2026-10-04 17:33:26 INFO::Fitting model to feature number 41, DNA_Peduoviridae_1479
+2026-10-04 17:33:26 INFO::Fitting model to feature number 42, DNA_Peduoviridae_1558
+2026-10-04 17:33:26 INFO::Fitting model to feature number 43, DNA_Peduoviridae_5993
+2026-10-04 17:33:26 INFO::Fitting model to feature number 44, DNA_Peduoviridae_7928
+2026-10-04 17:33:26 INFO::Fitting model to feature number 45, DNA_Peduoviridae_520
+2026-10-04 17:33:26 INFO::Fitting model to feature number 46, DNA_Peduoviridae_1854
+2026-10-04 17:33:26 INFO::Fitting model to feature number 47, DNA_Peduoviridae_756
+2026-10-04 17:33:26 INFO::Fitting model to feature number 48, DNA_Family_unknown_32143
+2026-10-04 17:33:26 INFO::Fitting model to feature number 49, DNA_Peduoviridae_1518
+2026-10-04 17:33:26 INFO::Fitting model to feature number 50, DNA_Adenoviridae_like_1560
+2026-10-04 17:33:26 INFO::Fitting model to feature number 51, DNA_Family_unknown_6044
+2026-10-04 17:33:26 INFO::Fitting model to feature number 52, DNA_Family_unknown_1668
+2026-10-04 17:33:26 INFO::Fitting model to feature number 53, DNA_Family_unknown_2254
+2026-10-04 17:33:26 INFO::Fitting model to feature number 54, DNA_Family_unknown_672
+2026-10-04 17:33:26 INFO::Fitting model to feature number 55, DNA_Arenaviridae_like_109
+2026-10-04 17:33:26 INFO::Fitting model to feature number 56, DNA_Peduoviridae_1703
+2026-10-04 17:33:26 INFO::Fitting model to feature number 57, DNA_Peduoviridae_4319
+2026-10-04 17:33:26 INFO::Fitting model to feature number 58, DNA_Peduoviridae_2180
+2026-10-04 17:33:26 INFO::Fitting model to feature number 59, DNA_Adenoviridae_like_1699
+2026-10-04 17:33:26 INFO::Fitting model to feature number 60, DNA_Peduoviridae_4995
+2026-10-04 17:33:26 INFO::Fitting model to feature number 61, DNA_Family_unknown_9129
+2026-10-04 17:33:26 INFO::Fitting model to feature number 62, DNA_Peduoviridae_3971
+2026-10-04 17:33:26 INFO::Fitting model to feature number 63, DNA_Peduoviridae_643
+2026-10-04 17:33:26 INFO::Fitting model to feature number 64, DNA_Peduoviridae_2123
+2026-10-04 17:33:26 INFO::Fitting model to feature number 65, DNA_Autographiviridae_3866
+2026-10-04 17:33:26 INFO::Fitting model to feature number 66, DNA_Family_unknown_4716
+2026-10-04 17:33:26 INFO::Fitting model to feature number 67, DNA_Peduoviridae_1246
+2026-10-04 17:33:26 INFO::Fitting model to feature number 68, DNA_Family_unknown_3186
+2026-10-04 17:33:26 INFO::Fitting model to feature number 69, DNA_Family_unknown_1908
+2026-10-04 17:33:26 INFO::Fitting model to feature number 70, DNA_Zobellviridae_2970
+2026-10-04 17:33:26 INFO::Fitting model to feature number 71, DNA_Queuovirinae_2756
+2026-10-04 17:33:26 INFO::Fitting model to feature number 72, DNA_Family_unknown_8467
+2026-10-04 17:33:26 INFO::Fitting model to feature number 73, DNA_Family_unknown_6645
+2026-10-04 17:33:26 INFO::Fitting model to feature number 74, DNA_Family_unknown_904
+2026-10-04 17:33:26 INFO::Fitting model to feature number 75, DNA_Peduoviridae_2006
+2026-10-04 17:33:26 INFO::Fitting model to feature number 76, DNA_Deejayvirinae_1078
+2026-10-04 17:33:26 INFO::Fitting model to feature number 77, DNA_Peduoviridae_1317
+2026-10-04 17:33:26 INFO::Fitting model to feature number 78, DNA_Peduoviridae_6168
+2026-10-04 17:33:26 INFO::Fitting model to feature number 79, DNA_Family_unknown_2924
+2026-10-04 17:33:26 INFO::Fitting model to feature number 80, DNA_Family_unknown_6939
+2026-10-04 17:33:26 INFO::Fitting model to feature number 81, DNA_Adenoviridae_like_754
+2026-10-04 17:33:26 INFO::Fitting model to feature number 82, DNA_Gladiatorvirus_10453
+2026-10-04 17:33:26 INFO::Fitting model to feature number 83, DNA_Family_unknown_21029
+2026-10-04 17:33:26 INFO::Fitting model to feature number 84, DNA_Peduoviridae_7304
+2026-10-04 17:33:26 INFO::Fitting model to feature number 85, DNA_Inoviridae_like_3078
+2026-10-04 17:33:26 INFO::Fitting model to feature number 86, DNA_Peduoviridae_1997
+2026-10-04 17:33:26 INFO::Fitting model to feature number 87, DNA_Demerecviridae_279
+2026-10-04 17:33:26 INFO::Fitting model to feature number 88, DNA_Peduoviridae_6772
+2026-10-04 17:33:26 INFO::Fitting model to feature number 89, DNA_Peduoviridae_1643
+2026-10-04 17:33:26 INFO::Fitting model to feature number 90, DNA_Inoviridae_like_3211
+2026-10-04 17:33:26 INFO::Fitting model to feature number 91, DNA_Casadabanvirus_like_5387
+2026-10-04 17:33:26 INFO::Fitting model to feature number 92, DNA_Peduoviridae_761
+2026-10-04 17:33:26 INFO::Fitting model to feature number 93, DNA_Family_unknown_2265
+2026-10-04 17:33:26 INFO::Fitting model to feature number 94, DNA_Peduoviridae_8530
+2026-10-04 17:33:26 INFO::Fitting model to feature number 95, DNA_Peduoviridae_10392
+2026-10-04 17:33:26 INFO::Fitting model to feature number 96, DNA_Peduoviridae_2737
+2026-10-04 17:33:26 INFO::Fitting model to feature number 97, DNA_Queuovirinae_32124
+2026-10-04 17:33:26 INFO::Fitting model to feature number 98, DNA_Inoviridae_like_9281
+2026-10-04 17:33:26 INFO::Fitting model to feature number 99, DNA_Peduoviridae_985
+2026-10-04 17:33:26 INFO::Fitting model to feature number 100, DNA_Peduoviridae_1005
+2026-10-04 17:33:26 INFO::Fitting model to feature number 101, DNA_Adenoviridae_like_1238
+2026-10-04 17:33:26 INFO::Fitting model to feature number 102, DNA_Peduoviridae_2636
+2026-10-04 17:33:26 INFO::Fitting model to feature number 103, DNA_Bronfenbrennervirinae_1503
+2026-10-04 17:33:26 INFO::Fitting model to feature number 104, DNA_Family_unknown_20296
+2026-10-04 17:33:26 INFO::Fitting model to feature number 105, DNA_Guernseyvirinae_4884
+2026-10-04 17:33:26 INFO::Fitting model to feature number 106, DNA_Steigviridae_687
+2026-10-04 17:33:26 INFO::Fitting model to feature number 107, DNA_Peduoviridae_4842
+2026-10-04 17:33:26 INFO::Fitting model to feature number 108, DNA_Fiersviridae_4559
+2026-10-04 17:33:26 INFO::Fitting model to feature number 109, DNA_Peduoviridae_108
+2026-10-04 17:33:26 INFO::Fitting model to feature number 110, DNA_Herelleviridae_843
+2026-10-04 17:33:26 INFO::Fitting model to feature number 111, DNA_Myoviridae_3662
+2026-10-04 17:33:26 INFO::Fitting model to feature number 112, DNA_Siphoviridae_6819
+2026-10-04 17:33:26 INFO::Fitting model to feature number 113, DNA_Podoviridae_8103
+2026-10-04 17:33:26 INFO::Fitting model to feature number 114, DNA_Family_unknown_6572
+2026-10-04 17:33:26 INFO::Fitting model to feature number 115, DNA_Podoviridae_2003
+2026-10-04 17:33:26 INFO::Fitting model to feature number 116, DNA_Siphoviridae_15338
+2026-10-04 17:33:26 INFO::Fitting model to feature number 117, DNA_Myoviridae_5100
+2026-10-04 17:33:26 INFO::Fitting model to feature number 118, DNA_Siphoviridae_715
+2026-10-04 17:33:26 INFO::Fitting model to feature number 119, DNA_Siphoviridae_3769
+2026-10-04 17:33:26 INFO::Counting total values for each feature
+2026-10-04 17:33:26 INFO::Writing residuals to file Maaslin2_DNA_LM_q01/residuals.rds
+2026-10-04 17:33:26 INFO::Writing fitted values to file Maaslin2_DNA_LM_q01/fitted.rds
+2026-10-04 17:33:26 INFO::Writing all results to file (ordered by increasing q-values): Maaslin2_DNA_LM_q01/all_results.tsv
+2026-10-04 17:33:26 INFO::Writing the significant results (those which are less than or equal to the threshold of 0.100000 ) to file (ordered by increasing q-values): Maaslin2_DNA_LM_q01/significant_results.tsv
+2026-10-04 17:33:27 INFO::Writing heatmap of significant results to file: Maaslin2_DNA_LM_q01/heatmap.pdf
+2026-10-04 17:33:27 INFO::Writing association plots (one for each significant association) to output folder: Maaslin2_DNA_LM_q01
+2026-10-04 17:33:27 INFO::Plotting associations from most to least significant, grouped by metadata
+2026-10-04 17:33:27 INFO::Plotting data for metadata number 1, Condition
+2026-10-04 17:33:27 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_6682
+2026-10-04 17:33:28 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_10920
+2026-10-04 17:33:28 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2089
+2026-10-04 17:33:28 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2941
+2026-10-04 17:33:29 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_548
+2026-10-04 17:33:29 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_1595
+2026-10-04 17:33:30 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_7928
+2026-10-04 17:33:30 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_6682
+2026-10-04 17:33:30 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1703
+2026-10-04 17:33:31 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1703
+2026-10-04 17:33:31 INFO::Creating boxplot for categorical data, Condition vs DNA_Autographiviridae_3866
+2026-10-04 17:33:31 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_10326
+2026-10-04 17:33:31 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2180
+2026-10-04 17:33:32 INFO::Creating boxplot for categorical data, Condition vs DNA_Podoviridae_8103
+2026-10-04 17:33:32 INFO::Creating boxplot for categorical data, Condition vs DNA_Siphoviridae_6819
+2026-10-04 17:33:32 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4319
+2026-10-04 17:33:33 INFO::Creating boxplot for categorical data, Condition vs DNA_Casadabanvirus_like_5387
+2026-10-04 17:33:33 INFO::Creating boxplot for categorical data, Condition vs DNA_Siphoviridae_3769
+2026-10-04 17:33:33 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2180
+2026-10-04 17:33:34 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_643
+2026-10-04 17:33:34 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_6682
+2026-10-04 17:33:35 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2941
+2026-10-04 17:33:35 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4097
+2026-10-04 17:33:35 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1239
+2026-10-04 17:33:36 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_974
+2026-10-04 17:33:36 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1239
+2026-10-04 17:33:36 INFO::Creating boxplot for categorical data, Condition vs DNA_Siphoviridae_715
+2026-10-04 17:33:37 INFO::Creating boxplot for categorical data, Condition vs DNA_Zobellviridae_5911
+2026-10-04 17:33:37 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1222
+2026-10-04 17:33:37 INFO::Creating boxplot for categorical data, Condition vs DNA_Schitoviridae_4748
+2026-10-04 17:33:38 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1558
+2026-10-04 17:33:38 INFO::Creating boxplot for categorical data, Condition vs DNA_Zobellviridae_2970
+2026-10-04 17:33:39 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_6645
+2026-10-04 17:33:39 INFO::Creating boxplot for categorical data, Condition vs DNA_Autographiviridae_3866
+2026-10-04 17:33:39 INFO::Creating boxplot for categorical data, Condition vs DNA_Herelleviridae_843
+2026-10-04 17:33:40 INFO::Creating boxplot for categorical data, Condition vs DNA_Adenoviridae_like_336
+2026-10-04 17:33:40 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1431
+2026-10-04 17:33:41 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2831
+2026-10-04 17:33:41 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4319
+2026-10-04 17:33:41 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_3109
+2026-10-04 17:33:42 INFO::Creating boxplot for categorical data, Condition vs DNA_Zobellviridae_5911
+2026-10-04 17:33:43 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_1938
+2026-10-04 17:33:43 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_882
+2026-10-04 17:33:44 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_974
+2026-10-04 17:33:44 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2831
+2026-10-04 17:33:45 INFO::Creating boxplot for categorical data, Condition vs DNA_Gracegardnervirinae_like_9320
+2026-10-04 17:33:45 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1222
+2026-10-04 17:33:46 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2737
+2026-10-04 17:33:46 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2941
+2026-10-04 17:33:47 INFO::Creating boxplot for categorical data, Condition vs DNA_Inoviridae_like_9281
+2026-10-04 17:33:47 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2031
+2026-10-04 17:33:47 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2831
+2026-10-04 17:33:48 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1480
+2026-10-04 17:33:48 INFO::Creating boxplot for categorical data, Condition vs DNA_Inoviridae_like_926
+2026-10-04 17:33:49 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2031
+2026-10-04 17:33:49 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_974
+2026-10-04 17:33:50 INFO::Creating boxplot for categorical data, Condition vs DNA_Inoviridae_like_1799
+2026-10-04 17:33:50 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1436
+2026-10-04 17:33:51 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_882
+2026-10-04 17:33:51 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_240
+2026-10-04 17:33:52 INFO::Creating boxplot for categorical data, Condition vs DNA_Gracegardnervirinae_like_9320
+2026-10-04 17:33:52 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_12234
+2026-10-04 17:33:52 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_643
+2026-10-04 17:33:53 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_10920
+2026-10-04 17:33:53 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_882
+2026-10-04 17:33:54 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4097
+2026-10-04 17:33:55 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_240
+2026-10-04 17:33:55 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_6560
+2026-10-04 17:33:55 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2031
+2026-10-04 17:33:56 INFO::Creating boxplot for categorical data, Condition vs DNA_Adenoviridae_like_754
+2026-10-04 17:33:56 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_4095
+2026-10-04 17:33:56 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4097
+2026-10-04 17:33:57 INFO::Creating boxplot for categorical data, Condition vs DNA_Demerecviridae_279
+2026-10-04 17:33:57 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_240
+2026-10-04 17:33:57 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_3525
+2026-10-04 17:33:58 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_10920
+2026-10-04 17:33:58 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_259
+2026-10-04 17:33:59 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1480
+2026-10-04 17:33:59 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_12234
+2026-10-04 17:34:00 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4021
+2026-10-04 17:34:00 INFO::Creating boxplot for categorical data, Condition vs DNA_Adenoviridae_like_1699
+2026-10-04 17:34:00 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1246
+2026-10-04 17:34:01 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2006
+2026-10-04 17:34:01 INFO::Creating boxplot for categorical data, Condition vs DNA_Siphoviridae_3769
+2026-10-04 17:34:01 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1703
+2026-10-04 17:34:02 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1222
+2026-10-04 17:34:02 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_8467
+2026-10-04 17:34:03 INFO::Creating boxplot for categorical data, Condition vs DNA_Arenaviridae_like_109
+2026-10-04 17:34:03 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1239
+2026-10-04 17:34:03 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2115
+2026-10-04 17:34:04 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_6044
+2026-10-04 17:34:04 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_1908
+2026-10-04 17:34:04 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_4319
+2026-10-04 17:34:05 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2289
+2026-10-04 17:34:05 INFO::Creating boxplot for categorical data, Condition vs DNA_Inoviridae_like_1799
+2026-10-04 17:34:05 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_4716
+2026-10-04 17:34:06 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1431
+2026-10-04 17:34:06 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1479
+2026-10-04 17:34:06 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_904
+2026-10-04 17:34:07 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_2115
+2026-10-04 17:34:07 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_32143
+2026-10-04 17:34:07 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_656
+2026-10-04 17:34:07 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_1668
+2026-10-04 17:34:08 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1643
+2026-10-04 17:34:08 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_3525
+2026-10-04 17:34:08 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_3525
+2026-10-04 17:34:09 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_6939
+2026-10-04 17:34:09 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_1938
+2026-10-04 17:34:10 INFO::Creating boxplot for categorical data, Condition vs DNA_Deejayvirinae_1078
+2026-10-04 17:34:10 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1431
+2026-10-04 17:34:10 INFO::Creating boxplot for categorical data, Condition vs DNA_Inoviridae_like_3211
+2026-10-04 17:34:11 INFO::Creating boxplot for categorical data, Condition vs DNA_Zobellviridae_2970
+2026-10-04 17:34:11 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1436
+2026-10-04 17:34:11 INFO::Creating boxplot for categorical data, Condition vs DNA_Deejayvirinae_1078
+2026-10-04 17:34:12 INFO::Creating boxplot for categorical data, Condition vs DNA_Queuovirinae_2756
+2026-10-04 17:34:12 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_656
+2026-10-04 17:34:12 INFO::Creating boxplot for categorical data, Condition vs DNA_Guernseyvirinae_4884
+2026-10-04 17:34:12 INFO::Creating boxplot for categorical data, Condition vs DNA_Siphoviridae_715
+2026-10-04 17:34:13 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_540
+2026-10-04 17:34:13 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1480
+2026-10-04 17:34:13 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_6560
+2026-10-04 17:34:14 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_9930
+2026-10-04 17:34:14 INFO::Creating boxplot for categorical data, Condition vs DNA_Gracegardnervirinae_like_9320
+2026-10-04 17:34:14 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_656
+2026-10-04 17:34:15 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1709
+2026-10-04 17:34:15 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_1317
+2026-10-04 17:34:15 INFO::Creating boxplot for categorical data, Condition vs DNA_Peduoviridae_7304
+2026-10-04 17:34:16 INFO::Creating boxplot for categorical data, Condition vs DNA_Family_unknown_4095
