@@ -3,13 +3,13 @@ Core code for analyzing metagenomic and metatranscriptomic data from infauna inc
 
 **The following folders contain code and outputs from the main results:**
 
-  - 01_Results_Fig_1A-C-E_DNA_abundance_diversity_PCoA
-  - 02_Results_Fig_1B-D-F_RNA_abundance_diversity_PCoA
-  - 03_Results_Fig_1G_DNA_MaAsLin2
-  - 04_Results_Fig_2A_PERMANOVA
-  - 05_Results_Fig_2B_Mantel_test
-  - 06_Results_Fig_2E_Partition_effect
-  - 07_Results_Fig_2F-G_GLM_DNA_viral_Diversity
-  - 09_Results_Fig_2H-I_DNA virus genomes_multivariate_GLM
-  - 10_Results_Fig_4_Lifestyle_DNA_Virus
-  - 11_Results_Fig4_Activity_DNA_virus
+- 01_Results_Fig_1A-C-E_DNA_abundance_diversity_PCoA
+- 02_Results_Fig_1B-D-F_RNA_abundance_diversity_PCoA
+- 03_Results_Fig_1G_DNA_MaAsLin2
+- 04_Results_Fig_2A_PERMANOVA
+- 05_Results_Fig_2B_Mantel_test
+- 06_Results_Fig_2E_Partition_effect
+- 07_Results_Fig_2F-G_GLM_DNA_viral_Diversity
+- 09_Results_Fig_2H-I_DNA virus genomes_multivariate_GLM
+- 10_Results_Fig_4_Lifestyle_DNA_Virus
+- 11_Results_Fig4_Activity_DNA_virus
