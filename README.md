@@ -15,4 +15,4 @@ Core analysis of metagenomic and metatranscriptomic data from infauna incubation
 - 10_Results_Fig_4_Lifestyle_DNA_Virus
 - 11_Results_Fig4_Activity_DNA_virus
 
-Each folder contains IPython notebooks with code, as well as subfolders with the input data and results (figures and tables) used in the manuscript. The folder titles refer to the results of the manuscript.
+Each folder contains IPython notebooks with the analyses, as well as subfolders with the input data and results (figures and tables) used in the manuscript. The folder titles refer to the results of the manuscript.
