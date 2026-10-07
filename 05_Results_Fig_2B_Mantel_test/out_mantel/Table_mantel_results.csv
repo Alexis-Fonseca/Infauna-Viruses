@@ -1,3 +1,0 @@
-"bacterial_proxy","mantel_r","p_value","permutations","n_samples","method"
-"Abundance (DNA metagenome)",0.3068,0.002,999,25,"Spearman; Bray-Curtis on relative abundance"
-"Activity (RNA metatranscriptome)",0.33,0.002,999,25,"Spearman; Bray-Curtis on relative abundance"
